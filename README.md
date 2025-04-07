@@ -1,5 +1,8 @@
 # Ada C23 PSE 03 - Hamming Distance
 
+*This PSE 03 "companion" repo was created to practice working with Git/GitHub,
+as well as to practice a bit with setting up requirements and Pytest tests.*
+
 ### Problem Statement
 Create a function named `hamming_distance` that calculates the number of
 differences between two DNA strands.
